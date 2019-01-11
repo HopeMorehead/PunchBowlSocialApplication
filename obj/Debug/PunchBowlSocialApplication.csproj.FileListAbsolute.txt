@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\bin\Debug\PunchBowlSocialApplication.exe.config
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\bin\Debug\PunchBowlSocialApplication.exe
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\bin\Debug\PunchBowlSocialApplication.pdb
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\obj\Debug\PunchBowlSocialApplication.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\obj\Debug\PunchBowlSocialApplication.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\obj\Debug\PunchBowlSocialApplication.exe
+c:\users\wecancodeit\source\repos\PunchBowlSocialApplication\PunchBowlSocialApplication\obj\Debug\PunchBowlSocialApplication.pdb
